@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.png?branch=master)](https://travis-ci.org/hakimel/reveal.js)
 
 A framework for easily creating beautiful presentations using HTML. [Check out the live demo](http://lab.hakim.se/reveal-js/).
@@ -931,3 +932,9 @@ If you have personal support questions use [StackOverflow](http://stackoverflow.
 MIT licensed
 
 Copyright (C) 2014 Hakim El Hattab, http://hakim.se
+=======
+payments
+========
+
+Payments Overview Presentation
+>>>>>>> 90d58030d6b65158e96583a0b7017fd4994d0f20
