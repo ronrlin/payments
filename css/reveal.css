@@ -354,8 +354,13 @@ body {
 	padding-right: .3em;
 }
 
+.reveal table tr {
+	border-bottom: 1pt solid black;
+}
+
 .reveal table th {
 	font-weight: bold;
+	border-bottom: 1pt solid white;
 }
 
 .reveal sup {
